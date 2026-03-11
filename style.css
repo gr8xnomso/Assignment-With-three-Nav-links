@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding-bottom: 200px;
+}
+
+footer{
+     padding-top: 200px;
+}
+h2{
+    color: #3F334D;
+}
+
+a{
+    text-decoration: none;
+    color: #574B60;
+}
+input{
+    padding: 200;
+}
+
+body{
+    background-color: #7D8491;
+    padding: 20px;
+    text-align: center;
+}
+h4{
+    color: #3F334D;
+}
